@@ -1,0 +1,45 @@
+
+.introducao, .comidas-grid {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.introducao p {
+    font-family: 'Abel', sans-serif;
+
+    font-size: 28px;
+    line-height: 36px;
+    text-align: justify;
+    text-indent: 50px;
+
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.comidas-grid {
+    margin-top: 30px;
+}
+
+.comida {
+    display: flex;
+    margin-top: 50px;
+}
+
+.comida img {
+    border-radius: 10px;
+}
+
+.comida h2{
+    font-size: 40px;
+    line-height: 92px;
+    font-family: 'Abel', sans-serif;
+}
+
+.comida p{
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    text-indent: 50px;
+}
+

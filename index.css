@@ -1,0 +1,95 @@
+/* HISTÓRIA DO MARANHÃO */
+
+.grandes-nomes, .noticiashome, .historia, .noticias{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2{
+    font-size: 50px;
+    line-height: 92px;
+    font-family: 'Abel', sans-serif;
+}
+
+.textohistoria{
+    display: flex;
+}
+
+.paragrafos {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: justify;
+    text-indent: 50px;
+
+    padding: 2%;
+    font-family: 'Abel', sans-serif;
+}
+
+/*SEÇÃO GRANDES NOMES DO MARANHÃO*/
+
+.grandes-nomes{
+    margin-top: 50px;
+}
+
+.artista {
+    display: flex;
+}
+
+.artista img {
+    border-radius: 10px;
+}
+
+.artista p, .artista-alcione p {
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    text-indent: 50px;
+
+    margin-top: 3%;
+}
+
+.artista-alcione iframe{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+h4{
+    font-size: 30px;
+    font-family: 'Abel', sans-serif;
+    margin-top: 2px;
+
+}
+
+/*NOTÍCIAS*/
+
+.noticiashome {
+    margin-left: 0%; 
+    
+}
+
+.navegacao{
+    display: flex;
+}
+
+.noticiashome a {
+    margin-top: 10px;
+    margin-right: 50px;
+
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.vermais {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    background-color: #A81D1D;
+    color: blanchedalmond;
+    border: none;
+
+    padding: 5px;
+}

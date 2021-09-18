@@ -1,0 +1,107 @@
+header {
+	background: #A81D1D;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+    display: flex;
+    
+}
+
+nav {
+	right: 0;
+    vertical-align: top;
+    margin-left: 45%; 
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+    float: left;
+
+}
+
+nav a {
+	color: #FFFFFF;
+	font-size: 22px;
+	text-decoration: none;
+    font-family: 'Abel', sans-serif;
+}
+
+/* Banner */
+.bannerprincipal {
+    position: relative;
+}
+
+.bannerprincipal img {
+    width: 100%;
+}
+
+.tituloprincipal {
+    color: #FFFFFF;
+    font-size: 100px;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Abel', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 450px;
+    right: 100px;
+}
+
+
+/*BODY*/
+.nometexto-direita{
+    padding-left: 2%;
+}
+.nometexto-esquerda{
+    padding-right: 2%;
+}
+
+/*FOOTER*/
+
+.rodapelinha img{
+    margin-top: 40px;
+    width: 100%;
+}
+
+.rodapelinha {
+    position: relative;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 20px;
+
+    font-family: 'Abel', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 315px;
+    left: 470px;
+}
+
+#navbar {
+    padding-top: 4px;
+    overflow: hidden;
+    background-color: #A81D1D;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 3%;
+    text-decoration: none;
+}
+
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}

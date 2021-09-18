@@ -1,0 +1,120 @@
+
+.titulo, .noticiasecontato {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2 {
+    font-size: 70px;
+    line-height: 171px;
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Abel', sans-serif;
+}
+
+h3 {
+    font-size: 50px;
+    line-height: 83px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4.53979px 4.53979px rgba(0, 0, 0, 0.25);
+    font-family: 'Abel', sans-serif;
+}
+
+/*NOTICIAS*/
+
+.noticiasecontato {
+    display: flex;
+}
+
+.noticiaunica{
+    display: flex;
+    
+    margin-top: 20px;
+    padding-top: 4px;
+}
+
+h4 {
+    font-size: 30px;
+    line-height: 50px;
+    color: #000000;
+    text-align: center;
+
+    font-family: 'Abel', sans-serif;
+}
+
+.texto p{
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #000000;
+    font-family: 'Abel', sans-serif;
+
+}
+
+.texto a {
+    font-size: 24px;
+    line-height: 31px;
+
+    color: #A81D1D;
+    font-family: 'Abel', sans-serif;
+
+    margin-left: 250px;
+
+    text-decoration: none;
+}
+
+/*FORMULÁRIO*/
+
+.contato{
+    background-color: #A81D1D;
+    width: 400px;
+    height: 800px;
+
+    margin-left: 20px;
+}
+
+.contato h3 {
+    text-align: center;
+}
+
+
+form label, form legend{
+	display: block;
+	font-size: 20px;
+	margin: 0 50px 10px;
+    color: #FFFFFF;
+
+    text-shadow: 0px 1.15305px 1.15305px rgba(0, 0, 0, 0.25);
+}
+
+.input-padrao {
+	margin: 0 50px 20px;
+	padding: 10px 25px;
+	width: 50%;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.enviar {
+	width: 50%;
+	padding: 10px 0;
+    color: #000000;	
+    font-weight: bold;
+	font-size: 15px;
+	border: none;
+	transition: 1s all;
+	cursor: pointer;
+    background: #C4C4C4;
+    border-radius: 20px;
+
+	margin: 0 100px;
+}
+
+.enviar:hover {
+	background: darkorange;
+	transform: scale(1.2);
+}
