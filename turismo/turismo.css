@@ -1,32 +1,32 @@
 .pontosturisticos {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 3.2rem;
+    margin-right: 3.2rem;
 }
 
 h2{
-    font-size: 50px;
-    line-height: 92px;
+    font-size: 3.2rem;
+    line-height: 5.75rem;
     font-family: 'Abel', sans-serif;
 }
 
 h3 {
-    font-size: 25px;
-    line-height: 92px;
+    font-size: 1.6rem;
+    line-height: 5.75rem;
     font-family: 'Abel', sans-serif;
 }
 
 .pontosturisticos p{
     font-family: 'Abel', sans-serif;
 
-    font-size: 25px;
-    line-height: 40px;
+    font-size: 1.6rem;
+    line-height: 2.5rem;
     text-align: justify;
-    text-indent: 50px;
+    text-indent: 3.2rem;
 }
 
 .pontosturisticos img {
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
 }
 
 /*ABA EVENTOS*/
@@ -34,7 +34,7 @@ h3 {
 .eventos {
     background-color: #A81D1D;
 
-    margin-top: 80px;
+    margin-top: 5rem;
     padding: 3%;
 }
 
@@ -47,22 +47,22 @@ h3 {
 
 
 .eventos h2 {
-    font-size: 50px;
-    line-height: 92px;
+    font-size: 3.2rem;
+    line-height: 5.75rem;
     font-family: 'Abel', sans-serif;
 
     color: white;
 }
 
 .atracao h5 {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-family: 'Abel', sans-serif;
     color: white;
 
 }
 
 .eventos p{
-    font-size: 15px;
+    font-size: 0.938rem;
     font-family: 'Abel', sans-serif;
     color: white;
 
